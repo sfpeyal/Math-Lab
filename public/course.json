@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Functions",
+        "price": 9,
+        "module": "1510",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1WnxxJXntavGiqjswOBltFmRaKogc38eB-A&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "name": "Inverse Functions",
+        "price": 8,
+        "module": "1145",
+        "picture": "https://cdn.kastatic.org/googleusercontent/B98Fs7JEB6O2K3lbpk7fsxB9AuIsANqZ_XjiHb6NT1BaC0YMAMSkiDKWBjBt5aKj1crX6rdpUW3p2mjN9SLRD47XEw"
+    },
+    {
+        "id": 3,
+        "name": "Matrices",
+        "price": 5,
+        "module": "4210",
+        "picture": "https://cdn.kastatic.org/googleusercontent/_anqPXDhdx2MuQIN7S9F-nYDbxNVMFfrKL-bgihYpi1iqa-bi5Gggwy8k70xZgZ0j84IzMKQDg2VusdRgoUens4"
+    },
+    {
+        "id": 4,
+        "name": "Determinants",
+        "price": 6,
+        "module": "4521",
+        "picture": "https://miro.medium.com/max/1838/1*MYYKXPSePX6GzsAjhPa5wg@2x.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Algebra",
+        "price": 10,
+        "module": "9914",
+        "picture": "https://image.shutterstock.com/image-vector/poster-name-school-subject-algebra-260nw-1550004938.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Vector Algebra",
+        "price": 7,
+        "module": "7414",
+        "picture": "https://lh3.googleusercontent.com/proxy/0cC4qIMoB6VFzo48Ma4qd8Nanp-AAGQFYv_ISUzeTTA6M8q6sdEYx6swOTtzz8gHvfWf_l6xAF4vqHGBh4-oWkZkAl3KSjs8Q0-tStxY"
+    },
+    {
+        "id": 7,
+        "name": "Probaility",
+        "price": 8,
+        "module": "4521",
+        "picture": "https://thewaiterspad.files.wordpress.com/2016/09/tree-diagram11.jpg?w=640"
+    },
+    {
+        "id": 8,
+        "name": "Integrals",
+        "price": 9,
+        "module": "3012",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Integral_example.svg/300px-Integral_example.svg.png"
+    },
+    {
+        "id": 9,
+        "name": "Trigonometry",
+        "price": 6,
+        "module": "4521",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Academ_Base_of_trigonometry.svg/300px-Academ_Base_of_trigonometry.svg.png"
+    },
+    {
+        "id": 10,
+        "name": "Geometry",
+        "price": 7,
+        "module": "6614",
+        "picture": "https://cdn4.vectorstock.com/i/1000x1000/87/68/basic-geometry-vector-15438768.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Real Number",
+        "price": 8,
+        "module": "5514",
+        "picture": "https://images.squarespace-cdn.com/content/v1/533db07de4b0d9f7ba7f1e77/1558110725626-1NFHMZ4W18836KIYZ9R5/diagram+of+number+sets+in+the+real+number+system"
+    },
+    {
+        "id": 12,
+        "name": "Calculus",
+        "price": 9,
+        "module": "5064",
+        "picture": "https://lifethroughamathematicianseyes.files.wordpress.com/2019/10/best-calculus-textbooks.png?w=635"
+    }
+]

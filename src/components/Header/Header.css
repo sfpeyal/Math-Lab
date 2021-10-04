@@ -1,0 +1,12 @@
+/* header section style */
+
+.header{
+    height: 500px;
+    background-color: rgb(233, 112, 91);
+}
+.header h1{
+    padding-top: 200px;
+}
+.header p{
+    padding-top: 20px;
+}

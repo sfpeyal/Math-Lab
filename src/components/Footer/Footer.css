@@ -1,0 +1,11 @@
+/* footer style sheet */
+.footer{
+    height: 180px;
+    background-color:  rgb(88, 80, 80);
+}
+.footer-div-holder{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    align-items: center;
+}

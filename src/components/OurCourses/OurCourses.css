@@ -1,0 +1,25 @@
+.OurCourses{
+    height: 500px;
+    background-color: rgb(112, 112, 230);
+}
+.card-holder{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    padding-top: 60px;
+    
+}
+.card{
+    background-color: rgb(255, 255, 255);
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+.card-holder button{
+    color: whitesmoke;
+    background-color: #f7b646;
+    padding: 3px 15px;
+    border-radius: 5px;
+}
+.card-holder button:hover{
+    background-color: tomato;
+}

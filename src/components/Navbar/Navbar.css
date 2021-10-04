@@ -1,0 +1,16 @@
+/* navbar style sheet */
+nav{
+    display: flex;
+    align-items: center;
+}
+nav div{
+    width: 35%;
+    font-size: 30px;
+}
+nav ul{
+    display: flex;
+    width: 65%;
+}
+nav ul li{
+    margin-left: 15%;
+}

@@ -1,0 +1,18 @@
+/* course style sheet */
+.course{
+    background-color: gainsboro;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+.btn button{
+    
+    color: whitesmoke;
+    background-color: #f7b646;
+    padding: 3px 15px;
+    border-radius: 5px;
+    
+}
+.btn button:hover{
+    background-color: tomato;
+}
