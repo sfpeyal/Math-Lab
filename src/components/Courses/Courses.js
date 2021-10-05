@@ -12,7 +12,7 @@ const Courses = () => {
     }, [])
     return (
         <div>
-            <h1 className="text-3xl my-8 font-medium">Total courses here: {courses.length}</h1>
+            <h1 className="text-3xl my-8 font-medium">Total Courses Here</h1>
             <div className="courses mx-auto mb-8">
                 {
                     courses.map(course => <Course

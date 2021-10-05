@@ -1,5 +1,6 @@
+/* our courses style sheet */
 .OurCourses{
-    height: 500px;
+    height: 600px;
     background-color: rgb(112, 112, 230);
 }
 .card-holder{
@@ -7,16 +8,21 @@
     justify-content: space-between;
     width: 70%;
     padding-top: 60px;
-    
+
+}
+.card-holder img{
+    border-radius: 5px;
 }
 .card{
-    background-color: rgb(255, 255, 255);
+    /* background-color: rgb(255, 255, 255); */
+    background-color: lavender;
     padding: 10px 15px;
     border-radius: 10px;
 }
 .card-holder button{
     color: whitesmoke;
-    background-color: #f7b646;
+    /* background-color: #f7b646; */
+    background-color: rgb(90, 200, 236);
     padding: 3px 15px;
     border-radius: 5px;
 }

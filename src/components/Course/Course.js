@@ -2,7 +2,6 @@ import React from 'react';
 import './Course.css'
 
 const Course = (props) => {
-    console.log(props.course);
     const { name, module, price, picture } = props.course;
     return (
         <div className="course mx-auto">
